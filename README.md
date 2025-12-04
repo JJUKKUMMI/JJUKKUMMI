@@ -98,12 +98,7 @@
 <img width="789" height="309" alt="image" src="https://github.com/user-attachments/assets/c1cd0ea6-9f58-45ca-8ba5-d88ad11aee7f" />
 
 ### 🏆 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JJUKKUMMI&show_icons=true&theme=tokyonight)
-
-### ⚙ GitHub Actions Badge
-[![CI](https://github.com/JJUKKUMMI/OSS_OpenQuest/actions/workflows/ci.yml/badge.svg)](https://github.com/JJUKKUMMI/OSS_OpenQuest/actions/workflows/ci.yml)  
-> 국밥집 추천 시스템 레포지토리의 GitHub Actions 워크플로 상태를 나타내는 배지입니다.  
-> (워크플로 파일 이름은 실제 설정한 파일명에 맞게 `ci.yml` 부분을 수정하면 됩니다.)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JJUKKUMMI&show_icons=true)
 
 ### 🔧 최근 기여 내역 (Commits / PRs)
 - OSS_OpenQuest 저장소에 제안 정리 문서 작성(PR 2건)
