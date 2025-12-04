@@ -95,7 +95,7 @@
 ## 📁 현재까지 진행한 GitHub 활동 내역
 
 ### 📈 GitHub Contribution 그래프
-<img width="789" height="309" alt="image" src="https://github.com/user-attachments/assets/c1cd0ea6-9f58-45ca-8ba5-d88ad11aee7f" />
+![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=JJUKKUMMI&theme=github)
 
 ### 🏆 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JJUKKUMMI&show_icons=true)
