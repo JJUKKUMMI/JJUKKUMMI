@@ -22,7 +22,7 @@
   - **Tkinter GUI 개발**
   - Git / GitHub / Markdown
 
-### 🧷 Skill Badges
+🧷 Skill Badges
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
